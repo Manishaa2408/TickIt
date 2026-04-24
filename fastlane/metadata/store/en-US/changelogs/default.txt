@@ -1,0 +1,3 @@
+• Enable task indent and unindent actions
+• Notify on network loss
+• General performance improvements and under-the-hood optimizations

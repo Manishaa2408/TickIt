@@ -1,0 +1,8 @@
+title: Taskfolio
+email: olivier.patry@gmail.com
+description: >-
+  Taskfolio is an Android task management app built using Google Tasks API.
+  Developed to demonstrate my expertise in modern Android development, it highlights my skills in architecture,
+  UI design with Jetpack Compose, OAuth authentication, and more—all packaged in a sleek, user-friendly interface.
+baseurl: '/taskfolio'
+url: 'https://opatry.github.io'
